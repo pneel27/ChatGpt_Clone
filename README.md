@@ -1,4 +1,4 @@
-#ChatGPT_Clone
+**<h1>ChatGPT_Clone</h1>** <br/>
 ChatGPT-like Application with Spring Boot and OpenAI<br/>
 This project is a ChatGPT-like application developed using Spring Boot and OpenAI's language model. Similar to ChatGPT, it utilizes natural language processing to generate responses to user queries, providing an interactive conversational experience.<br/><br/>
 
